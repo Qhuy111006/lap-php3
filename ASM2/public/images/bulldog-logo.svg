@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Bulldog Logo</title>
+  <desc id="desc">Blue, white, and red bulldog mascot inside a shield.</desc>
+  <defs>
+    <linearGradient id="shield" x1="256" x2="256" y1="40" y2="472" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3ec6ff"/>
+      <stop offset="1" stop-color="#1b5ba7"/>
+    </linearGradient>
+    <linearGradient id="faceShade" x1="190" x2="322" y1="160" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#d8e4ef"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#shield)" stroke="#18324b" stroke-width="12" d="M256 28 410 78c18 6 30 23 30 42v126c0 112-75 190-184 238C146 436 72 358 72 246V120c0-19 12-36 30-42z"/>
+  <path fill="#0f2740" opacity=".16" d="M102 304c16 75 74 132 154 180 82-48 141-106 156-183-38 26-84 40-154 40-58 0-112-13-156-37Z"/>
+
+  <path fill="#2a9ce8" stroke="#18324b" stroke-width="10" d="M156 102c-34 4-64 29-73 63 33-8 54 1 72 18 14-20 17-52 1-81Z"/>
+  <path fill="#2a9ce8" stroke="#18324b" stroke-width="10" d="M356 102c34 4 64 29 73 63-33-8-54 1-72 18-14-20-17-52-1-81Z"/>
+
+  <path fill="url(#faceShade)" stroke="#202833" stroke-width="11" d="M161 188c9-43 49-76 95-76s86 33 95 76c22 12 34 35 34 62 0 34-18 59-48 74-11 41-42 83-81 83s-70-42-81-83c-30-15-48-40-48-74 0-27 12-50 34-62Z"/>
+
+  <path fill="#2a9ce8" stroke="#18324b" stroke-width="9" d="M180 175c18-26 44-39 76-41-7 27-21 46-38 56-18 10-42 11-66 0 5-7 14-11 28-15Z"/>
+  <path fill="#2a9ce8" stroke="#18324b" stroke-width="9" d="M332 175c-18-26-44-39-76-41 7 27 21 46 38 56 18 10 42 11 66 0-5-7-14-11-28-15Z"/>
+
+  <path fill="#ffffff" stroke="#202833" stroke-width="9" d="M177 246c8-29 38-48 79-48s71 19 79 48c-18 14-46 24-79 24s-61-10-79-24Z"/>
+  <path fill="#ffffff" stroke="#202833" stroke-width="9" d="M194 281c17-11 38-16 62-16s45 5 62 16c-8 34-27 65-62 65s-54-31-62-65Z"/>
+
+  <path fill="#202833" d="M212 231c0-17 13-31 30-31s30 14 30 31-13 31-30 31-30-14-30-31Zm58 0c0-17 13-31 30-31s30 14 30 31-13 31-30 31-30-14-30-31Z"/>
+  <path fill="#ff4e4e" d="M220 232c0-11 9-20 20-20s20 9 20 20-9 20-20 20-20-9-20-20Zm58 0c0-11 9-20 20-20s20 9 20 20-9 20-20 20-20-9-20-20Z"/>
+  <circle cx="249" cy="224" r="6" fill="#fff"/>
+  <circle cx="307" cy="224" r="6" fill="#fff"/>
+
+  <path fill="#ffffff" stroke="#202833" stroke-width="9" d="M220 287c7 15 18 23 36 23s29-8 36-23c-6-8-16-13-36-13s-30 5-36 13Z"/>
+  <path fill="#202833" d="M215 286c13-12 25-18 41-18s28 6 41 18c-5 15-17 28-41 28s-36-13-41-28Z"/>
+  <path fill="#202833" stroke="#202833" stroke-linecap="round" stroke-width="9" d="M222 185c22-19 50-23 74-20M290 165c24-3 52 1 74 20"/>
+  <path fill="none" stroke="#202833" stroke-linecap="round" stroke-width="7" d="M213 331c17 10 30 15 43 15m44-15c-17 10-30 15-43 15"/>
+
+  <path fill="#202833" stroke="#202833" stroke-width="9" d="M256 246c19 0 38 11 38 31 0 11-8 23-38 23s-38-12-38-23c0-20 19-31 38-31Z"/>
+  <path fill="#ffffff" stroke="#202833" stroke-width="7" d="m228 293 18 28 10-28zm66 0-18 28-10-28z"/>
+  <path fill="#ffffff" stroke="#202833" stroke-width="6" d="m209 287-19 16 24 5zm95 0 19 16-24 5z"/>
+
+  <path fill="#ff4b4b" stroke="#202833" stroke-width="9" d="M232 319c9 2 16 8 24 8s15-6 24-8c27 9 36 30 30 54-6 23-25 39-54 39s-48-16-54-39c-6-24 3-45 30-54Z"/>
+  <path fill="#d72e2e" d="M256 328c12 0 21 22 21 50 0 14-2 26-6 34a76 76 0 0 1-15 1 76 76 0 0 1-15-1c-4-8-6-20-6-34 0-28 9-50 21-50Z"/>
+  <path fill="none" stroke="#9f1919" stroke-width="6" d="M256 328v82"/>
+
+  <path fill="#202833" opacity=".14" d="M160 232c15 52 56 91 96 91s81-39 96-91c-14 30-50 54-96 54s-82-24-96-54Z"/>
+</svg>
